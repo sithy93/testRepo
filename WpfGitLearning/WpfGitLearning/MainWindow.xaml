@@ -9,7 +9,7 @@
     <Grid>
         <StackPanel>
             <TextBlock>добавлена панель</TextBlock>
-            <TextBlock>добавлено какое-то значение</TextBlock>
+            <TextBlock>добавлено какое-то значение3</TextBlock>
         </StackPanel>
     </Grid>
 </Window>
