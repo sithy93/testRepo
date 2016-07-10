@@ -8,8 +8,8 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <StackPanel>
-            <TextBlock>добавлена панель</TextBlock>
-            <TextBlock>добавлено какое-то значение</TextBlock>
+            <TextBlock>добавлена панель$</TextBlock>
+            <TextBlock>добавлено какое-то значение$</TextBlock>
         </StackPanel>
     </Grid>
 </Window>
