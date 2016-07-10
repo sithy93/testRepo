@@ -8,10 +8,15 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <StackPanel>
+<<<<<<< HEAD
             <TextBlock>добавлена панель</TextBlock>
             <TextBlock>добавлено какое-то значение3</TextBlock>
-            <TextBlock>new feat1</TextBlock>
-            <TextBlock>new feat1</TextBlock>
+            <TextBlock>new feat1;</TextBlock>
+            <TextBlock>new feat1;</TextBlock>
+=======
+            <TextBlock>добавлена панель$</TextBlock>
+            <TextBlock>добавлено какое-то значение$</TextBlock>
+>>>>>>> master
         </StackPanel>
     </Grid>
 </Window>
