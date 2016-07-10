@@ -10,6 +10,8 @@
         <StackPanel>
             <TextBlock>добавлена панель</TextBlock>
             <TextBlock>добавлено какое-то значение3</TextBlock>
+            <TextBlock>new feat1</TextBlock>
+            <TextBlock>new feat1</TextBlock>
         </StackPanel>
     </Grid>
 </Window>
