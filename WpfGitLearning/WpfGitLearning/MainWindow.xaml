@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <StackPanel>
+            <TextBlock>добавлена панель</TextBlock>
+            <TextBlock>добавлено какое-то значение</TextBlock>
+        </StackPanel>
     </Grid>
 </Window>
